@@ -12,7 +12,7 @@ An **ASP.NET Core web application** built using **ASP.NET Core MVC ** and **Enti
 * **Bootstrap**
 
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository
 
