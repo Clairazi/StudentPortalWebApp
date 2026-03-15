@@ -1,0 +1,44 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+.vs/
+iisexpress/
+
+# Entity Framework
+*.db
+*.db-wal
+*.db-shm
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm / node (if frontend added later)
+node_modules/
+
+# Publish output
+publish/
+
+# Temporary files
+*.tmp
+*.temp
