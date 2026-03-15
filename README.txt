@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿# 🎓 Student Portal Web Application
-=======
 # 🎓 Student Portal Web Application
->>>>>>> d02db597fd7e60c063f170d076502f15ebbd64b2
 
 An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entity Framework Core**.
 
@@ -20,7 +16,7 @@ An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entit
 1. Clone the repository
 
 ```
-git clone https://github.com/[username]/[repository-name].git
+git clone https://github.com/Clairazi/StudentPortalWebApp.git
 ```
 
 2. Navigate to the project folder
