@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿# 🎓 Student Portal Web Application
+=======
+# 🎓 Student Portal Web Application
+>>>>>>> d02db597fd7e60c063f170d076502f15ebbd64b2
 
 An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entity Framework Core**.
 
