@@ -1,4 +1,4 @@
-# 🎓 Student Portal Web Application
+# Student Portal Web Application
 
 An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entity Framework Core**.
 
