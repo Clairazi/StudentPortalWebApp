@@ -1,18 +1,17 @@
-﻿# Student Portal Web Application
+﻿# 🎓 Student Portal Web Application
 
-An **ASP.NET Core web application** built using **ASP.NET Core MVC ** and **Entity Framework Core**.
+An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entity Framework Core**.
 
 ## Technologies Used
 
 * **ASP.NET Core**
-* **MVC**
+* **ASP.NET Core MVC**
 * **Entity Framework Core**
 * **SQL Server**
 * **C#**
 * **Bootstrap**
 
-
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository
 
