@@ -45,9 +45,6 @@ This project uses **Entity Framework Core** with **SQL Server**.
 
 To create migrations:
 
-dotnet ef migrations add InitialCreate  
-<<<<<<< HEAD
+dotnet ef migrations add InitialCreate
 dotnet ef database update
-=======
 dotnet ef database update
->>>>>>> 92ad67ec0b991f52111c1ac11249f9f6932356a8
