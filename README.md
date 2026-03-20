@@ -15,7 +15,8 @@ An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entit
 
 1. Clone the repository
 
-git clone https://github.com/Clairazi/StudentPortalWebApp.git
+git clone:
+https://github.com/Clairazi/StudentPortalWebApp.git
 
 2. Navigate to the project folder
 
