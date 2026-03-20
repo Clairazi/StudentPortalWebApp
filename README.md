@@ -4,7 +4,6 @@ An **ASP.NET Core web application** built using **ASP.NET Core MVC** and **Entit
 
 ## Technologies Used
 
-- ASP.NET Core
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server
